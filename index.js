@@ -7,14 +7,3 @@ alert(`Subtraction of both number ${num1 - num2}`)
 alert(`Multiplication of both number ${num1 * num2}`)
 
 alert(`Division of both number ${num1 / num2}`)
-
-
-
-// string is always true 
-
-// if ("shahzad" < "khan"){
-//     console.log("learn")
-// }
-// else{
-//     console.log("something else")
-// }
